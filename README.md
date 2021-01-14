@@ -10,7 +10,7 @@ This project runs in Oculus Quest Equipments.
   - Open the project with unity
   - Go to in **Manager** GameObject and then select in **Manager Script** which method you wish to test: **Iterator Cursor** or **Depth Ray**
   - Also in **Manager Script** select a Stage
-  ![Manager Image](MarkdownImages/managerImage.png)
+  ![Manager Image](https://github.com/inesmargarida/RV-project/blob/main/MarkdownImages/ManagerImage.PNG)
   *this image shows what the manager script looks like*
   - Connect your oculus quest and phone to your computer
   - In the upper tab in Unity select File > Build Settings
