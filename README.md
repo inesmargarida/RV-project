@@ -1,9 +1,9 @@
 # RV-project
 ## 3D Selection Techniques: Iterator Cursor and Depth Ray Cursor
 
-This project was made for a Virtual Reality course teached at IST. 
+This project was made for a University Course at Instituto Superior Tecnico within the subject Virtual Reality.
 
-This project runs in Oculus Quest and was created with Unity in the version 2019.4.13f1
+This project runs in Oculus Quest and was implemented in Unity 2019.4.13f1.
 
 ## To execute the project:
   - Download the project to your computer
